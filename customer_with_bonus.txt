@@ -1,0 +1,8 @@
+"CustomerID_1","customertype","Bonus"
+12583,"citizen","3840000"
+15311,"citizen","3950000"
+13748,"citizen","4440000"
+17809,"citizen","4515000"
+13047,"citizen","12540000"
+17850,"citizen","13440000"
+12431,"citizen","44000000"
